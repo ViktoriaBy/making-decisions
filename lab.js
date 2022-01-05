@@ -51,7 +51,7 @@ if(amysBirthYear === brittanisBirthYear){
 }
 
 
-////////// PROBLEM 4 55//////////
+////////// PROBLEM 4 //////////
 
 let temperature = 55
 let rain = true
@@ -79,8 +79,9 @@ if(temperature > 80 && rain === true){
   Create a for-loop that runs 10 times, and on each iteration logs the word 'hello'.
 */
 
-//CODE HERE
-
+for(let i = 0; i < 10; i++){
+ console.log("Hello"); 
+}
 
 ////////// PROBLEM 6 //////////
 
